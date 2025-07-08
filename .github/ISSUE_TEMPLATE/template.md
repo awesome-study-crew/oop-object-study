@@ -3,13 +3,12 @@ name: template
 about: 오브젝트 스터디 이슈 템플릿
 title: 오브젝트 스터디 이슈
 labels: ''
-assignees: iamkanguk97, Sangun-Lee-6, alexization
 ---
 
-## 주제
+## 주제 (선정 이유)
 
-## 선정 이유
+## 해당 텍스트 (책 내용)
 
-## 해당 텍스트
+## 이슈 내용 (궁금한 점 또는 하고싶은 말 등)
 
 ## 관련 페이지
